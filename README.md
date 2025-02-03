@@ -14,12 +14,10 @@ This dashboard includes the following key visualizations:
 - 🍽️ **Revenue by Pizza Sizes** – Compare revenue contributions from various pizza sizes.
 
 ## 📊 Technologies Used
-- **Power BI / Tableau** (for visualizations)
-- **SQL / Excel** (for data preprocessing)
-- **Python / Pandas** (if used for analysis)
+- **Power BI** (for visualizations and data cleaning)
 
 ## 📸 Preview
-*(Add screenshots of your dashboard here)*
+![Snapshot](https://github.com/user-attachments/assets/3e810310-0e6d-482b-9371-42b8fb0291b2)
 
 ## 🔥 Insights Gained
 - **Best-selling pizza size:** 🏆
@@ -30,15 +28,15 @@ This dashboard includes the following key visualizations:
 ## 💡 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Pizza-Sales-Dashboard.git
+   git clone https://github.com/Gayathri257/Pizza-Sales-Dashboard.git
    ```
-2. Open the dashboard in Power BI / Tableau.
+2. Open the dashboard in Power BI.
 3. Explore the visualizations and derive insights!
 
 ## 📬 Contact
 For any queries, feel free to connect on:
 - 📧 **Email:** peddakotla99@gmail.com
 - 💼 **LinkedIn:** [Your LinkedIn Profile]()
- 🛠️ **GitHub:** [GitHub Profile](https://github.com/Gayathri257)
+- 🛠️ **GitHub:** [GitHub Profile](https://github.com/Gayathri257)
 ---
 🚀 Happy Analyzing! 🍕📊
